@@ -9,18 +9,22 @@
 
 本仓库致力于让本应免费的《魔兽世界》插件回归免费，方便玩家按需下载和使用。
 
-## 特别标注：BiaoGeVIP+BiaoGeVIP
+## 特别标注：BiaoGeVIP+BiaoGeVIP（研究分析，请勿使用）
+
+> [!WARNING]
+> **请勿下载、安装或使用 BiaoGeVIP 与 BiaoGeAI。**根据《魔兽世界》国服运营团队发布的[《关于 BiaoGeVIP 和 BiaoGeAI 插件涉嫌违法的公告声明》](https://wx2.sinaimg.cn/mw690/002wVfRely1ifh9df0mjwj60u01ldb2a02.jpg)，相关插件已被列入违规处理范围；公告要求玩家立即检查本地插件并尽快卸载，持续违规使用可按相关法规及条款处以封号 7 天及以上处罚。
+
+### 公告要点与研究范围
+
+- 公告处理范围包括已发布、当前流通，以及经更名、拆分、修改、重新打包等方式继续提供的 BiaoGeVIP、BiaoGeAI 版本。
+- 公告所列原因包括涉嫌非法破解游戏接口、泄露玩家信息数据、传播违规功能并借此牟利；以上为公告内容摘要。
+- 公告说明：本次处理暂不涉及独立发布的 BiaoGe 免费版。
+- 本仓库保留下方链接仅用于版本识别、研究分析与代码审计，不构成推荐或使用许可；请勿将其安装到游戏客户端。
 
 - 更新日期：2026-07-26
-- 下载路径：[BiaoGeVIP+BiaoGeVIP 专属 Release](https://github.com/FreeWowAddons/addons/releases/tag/biaogevip-2026.07.26)
-- 下载文件：[BiaoGeVIP+BiaoGeVIP.zip](https://github.com/FreeWowAddons/addons/releases/download/biaogevip-2026.07.26/BiaoGeVIP%2BBiaoGeVIP.zip)
+- 研究样本：[BiaoGeVIP+BiaoGeVIP 专属 Release](https://github.com/FreeWowAddons/addons/releases/tag/biaogevip-2026.07.26)
+- 样本文件：[BiaoGeVIP+BiaoGeVIP.zip](https://github.com/FreeWowAddons/addons/releases/download/biaogevip-2026.07.26/BiaoGeVIP%2BBiaoGeVIP.zip)
 - 包含目录：`!BiaoGeLib`、`BiaoGeAI`、`BiaoGeVIP`
-
-### 争议说明
-
-- **收费争议**：主要争议是该插件是否应当收费。
-- **数据与隐私争议**：社区中还存在关于该插件可能贩卖数据、泄露隐私的指控；本仓库未对这些指控作独立核实，也不将其表述为既定事实。下载、安装和使用前请自行审查代码、了解相关信息并自行判断。
-
 ## 按游戏版本下载
 
 资产页面的显示标签为 ZIP 内部真实插件目录名；为兼容 GitHub，下载文件名使用安全 ASCII 名称。
