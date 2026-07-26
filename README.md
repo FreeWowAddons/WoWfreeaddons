@@ -1,6 +1,6 @@
 # Free WoW Addons
 
-**Telegram：[@opiwow](https://t.me/opiwow)**
+<h2 align="center">📣 Telegram：<a href="https://t.me/opiwow">@opiwow</a></h2>
 
 > [!NOTE]
 > **建立缘起**
@@ -33,6 +33,13 @@
 
 资产页面的显示标签为 ZIP 内部真实插件目录名；为兼容 GitHub，下载文件名使用安全 ASCII 名称。
 
+## 快速下载
+
+| 泰坦时光服（泰坦重铸） | 正式服 | 熊猫人之谜 |
+| --- | --- | --- |
+| [进入 Release 下载（15 个 ZIP）](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-titan-reforged) | [进入 Release 下载（8 个 ZIP）](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-retail) | [进入 Release 下载（9 个 ZIP）](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-mists-of-pandaria) |
+| 探索赛季 | 燃烧的远征 | 经典旧世 |
+| [进入 Release 下载（7 个 ZIP）](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-season-of-discovery) | [进入 Release 下载（8 个 ZIP）](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-burning-crusade) | [进入 Release 下载（7 个 ZIP）](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-classic-era) |
 ### 经典旧世
 
 - 更新日期：2026-07-26
