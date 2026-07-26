@@ -1,6 +1,6 @@
 # Free WoW Addons
 
-如果你有更多的建议或更多想要的资源请**📣 Telegram：**[**@opiwow**](https://t.me/opiwow)
+<h2 align="center">如果你有更多的建议或更多想要的资源请 <strong>📣 Telegram：</strong><a href="https://t.me/opiwow"><strong>@opiwow</strong></a></h2>
 
 > [!NOTE]
 > **建立缘起**
