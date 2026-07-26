@@ -1,5 +1,7 @@
 # Free WoW Addons
 
+**Telegram：[@opiwow](https://t.me/opiwow)**
+
 > [!NOTE]
 > **建立缘起**
 > 本仓库源于近期 NowCL 与 BiaoGeAI 引发的争议讨论。许多玩家尚未亲自体验过 BiaoGeAI，因此这里提供按版本整理的下载入口和插件说明，方便大家基于实际体验自行了解、判断与交流。
