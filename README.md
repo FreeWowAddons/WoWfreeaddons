@@ -12,7 +12,9 @@
 ## 特别标注：BiaoGeVIP+BiaoGeVIP（研究分析，请勿使用）
 
 > [!WARNING]
-> **请勿下载、安装或使用 BiaoGeVIP 与 BiaoGeAI。**根据《魔兽世界》国服运营团队发布的[《关于 BiaoGeVIP 和 BiaoGeAI 插件涉嫌违法的公告声明》](https://wx2.sinaimg.cn/mw690/002wVfRely1ifh9df0mjwj60u01ldb2a02.jpg)，相关插件已被列入违规处理范围；公告要求玩家立即检查本地插件并尽快卸载，持续违规使用可按相关法规及条款处以封号 7 天及以上处罚。
+> **请勿下载、安装或使用 BiaoGeVIP 与 BiaoGeAI。**根据《魔兽世界》国服运营团队发布的[《关于 BiaoGeVIP 和 BiaoGeAI 插件涉嫌违法的公告声明》](https://github.com/FreeWowAddons/addons/releases/download/biaogevip-2026.07.26/nowcl-violation-notice.jpg)，相关插件已被列入违规处理范围；公告要求玩家立即检查本地插件并尽快卸载，持续违规使用可按相关法规及条款处以封号 7 天及以上处罚。
+
+![《关于 BiaoGeVIP 和 BiaoGeAI 插件涉嫌违法的公告声明》](https://github.com/FreeWowAddons/addons/releases/download/biaogevip-2026.07.26/nowcl-violation-notice.jpg)
 
 ### 公告要点与研究范围
 
