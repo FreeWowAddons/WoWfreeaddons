@@ -1,6 +1,6 @@
 # Free WoW Addons
 
-<h2 align="center">📣 Telegram：<a href="https://t.me/opiwow">@opiwow</a></h2>
+如果你有更多的建议或更多想要的资源请**📣 Telegram：**[**@opiwow**](https://t.me/opiwow)
 
 > [!NOTE]
 > **建立缘起**
@@ -11,7 +11,7 @@
 
 ## 游戏版本下载
 
-> **Release 快速入口：**[泰坦时光服（泰坦重铸） Release](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-titan-reforged) · [经典旧世 Release](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-classic-era) · [燃烧的远征 Release](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-burning-crusade) · [正式服 Release](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-retail) · [熊猫人之谜 Release](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-mists-of-pandaria) · [探索赛季 Release](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-season-of-discovery)
+> **Release 快速入口：**[泰坦时光服（泰坦重铸）](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-titan-reforged) · [经典旧世](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-classic-era) · [燃烧的远征](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-burning-crusade) · [正式服](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-retail) · [熊猫人之谜](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-mists-of-pandaria) · [探索赛季](https://github.com/FreeWowAddons/WoWfreeaddons/releases/tag/2026.07.26-season-of-discovery)
 
 ### 泰坦时光服（泰坦重铸）
 
